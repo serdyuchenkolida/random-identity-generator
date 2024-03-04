@@ -1,0 +1,24 @@
+{
+  "name": "random-identity-generator",
+  "version": "1.0.0",
+  "description": "A simple npm package to generate random identities.",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "random",
+    "identity",
+    "generator"
+  ],
+  "author": "serdyuchenkolida",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/serdyuchenkolida/random-identity-generator.git"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1"
+  }
+}
